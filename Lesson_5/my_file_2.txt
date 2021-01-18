@@ -1,0 +1,4 @@
+This is the string one
+This is obviously the second string
+Here goes nothing
+And this is the longest string in this text file which I need to process and I don't know yet how to manage it. Oh, wait! I made it.
